@@ -1,4 +1,4 @@
-# Text to Image and Image to Text Converter
+# Text Image Transformer
 Questo progetto Python consente di convertire testo in immagini ASCII e viceversa, da immagini ASCII a testo. Il codice è ispirato all'articolo del blog "Compressing Text Into Images" di Terence Eden (https://shkspr.mobi/blog/2024/01/compressing-text-into-images/).
 
 ![Logo TextImageTransformer](logo.jpg)
